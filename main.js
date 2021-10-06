@@ -60,5 +60,3 @@ function leetSpeak(word){
     return (word);
 }
 
-
-console.log(averageAge(10));
